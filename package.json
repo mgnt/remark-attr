@@ -10,6 +10,8 @@
 	"build": "tsc --build",
 	"clean": "tsc --build --clean"
   },
+  "main": "",
+  "types": "./types/index.d.ts",
   "repository": "github:arobase-che/remark-attr",
   "keywords": [
     "markdown",
